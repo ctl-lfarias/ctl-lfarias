@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando com [PHP, Kotlin, MySql, NoSql e outros] na PagSeguro.
+- 💼 Trabalhando com [PHP, Kotlin, MySql, NoSql e outros] na Compass atualmente prestando serviçoes para a PagSeguro.
 - 🌱 Aprendendo mais sobre AWS e IA.
 
 ## Minhas Skills
