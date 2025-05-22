@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ctl_lfarias&color=006bed)
+![](https://komarev.com/ghpvc/?username=ctl-lfarias&color=006bed)
 
 ## Sobre mim
 
